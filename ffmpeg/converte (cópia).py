@@ -1,7 +1,7 @@
 '''
-Objetivo listar arquivos, e converter ou otimizar arquivos de vídeo de um diretório de origem para um diretorio
+Objetivo listar arquivos, e converter ou otimizar arquivos de vídeo de um diretório de origem para um diretorio destino
 
-Vamos usar ffmpeg para otimizar ou converter vídeo.
+Aplicação usada ffmpeg para otimizar ou converter vídeo.
 Instalar ubuntu 22.04
 #sudo apt install ffmpeg
 Veificar instalação
